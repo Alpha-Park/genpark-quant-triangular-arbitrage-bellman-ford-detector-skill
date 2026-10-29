@@ -1,0 +1,11 @@
+{
+  "name": "genpark-quant-triangular-arbitrage-bellman-ford-detector-skill",
+  "version": "1.0.0",
+  "description": "Quant triangular arbitrage Bellman-Ford negative cycle detector computing cross-currency rate discrepancies and net arbitrage ROI.",
+  "tools": [
+    {
+      "name": "detect_arbitrage_cycles",
+      "description": "Identify profitable multi-pair triangular arbitrage loops."
+    }
+  ]
+}
